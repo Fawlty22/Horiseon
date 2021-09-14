@@ -1,2 +1,1 @@
-# Horiseon
-This is the remote repository for Challenge #1.
+# Code Refactor Starter Code
